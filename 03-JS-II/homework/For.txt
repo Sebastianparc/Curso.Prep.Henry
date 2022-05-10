@@ -1,0 +1,9 @@
+For: crea un bucle que consiste en tres expresiones opcionales, 
+encerradas en parentesis y separadas por puntos y comas, seguidas de una sentencia ejecutada en un bucle.
+&&: operador logico, evalua dos expresiones y devuelve verdadero si ambas son true, si alguna es falsa, 
+este operador devolvera false.
+|| operador logico: 'or' devuelve true si una o ambas expresiones son true, 
+devuelve false si ambas son false.
+! operador logico: 'not'el operador devuelve lo contrario, 
+si es false devuvelve true y se ejecuta.
+
